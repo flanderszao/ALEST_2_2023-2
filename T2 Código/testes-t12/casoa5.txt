@@ -1,0 +1,56 @@
+10 hidrogenio -> 1 aquatronium
+10 hidrogenio -> 1 weasleyium
+4 hidrogenio -> 1 carbono
+6 hidrogenio -> 1 bioquarkium
+1 hidrogenio -> 1 benficium
+2 hidrogenio -> 1 arcanite
+13 hidrogenio -> 1 aurorium
+8 hidrogenio -> 1 holmio
+10 hidrogenio -> 1 estroncio
+12 hidrogenio -> 1 arsenalium
+18 hidrogenio -> 1 ewokium
+19 hidrogenio -> 1 geonosianon
+10 hidrogenio -> 1 erbio
+4 hidrogenio -> 1 chewbacconium
+7 hidrogenio -> 1 hothium
+20 hidrogenio -> 1 antimonio
+1 hidrogenio -> 1 graviphoton
+6 hidrogenio -> 1 alderaanite
+9 hidrogenio -> 1 gravitrin
+3 hidrogenio -> 1 cloro
+7 hidrogenio -> 1 gamorreanium
+7 hidrogenio -> 1 cesio
+8 hidrogenio -> 1 cryotrite
+15 hidrogenio -> 1 barbite
+4 hidrogenio -> 1 manchesterite
+17 hidrogenio -> 1 fluor
+20 hidrogenio -> 1 michonneon
+4 hidrogenio -> 1 berilio
+14 hidrogenio -> 1 daeneryston
+8 hidrogenio -> 1 hamburgerium
+11 hidrogenio -> 1 verdanium
+7 hidrogenio -> 1 bocajuniun
+13 hidrogenio -> 1 winduon
+4 hidrogenio -> 1 barcelonium
+14 hidrogenio -> 1 bothanite
+16 hidrogenio -> 1 biogalvanite
+6 hidrogenio -> 1 echanium
+10 hidrogenio -> 1 blueson
+1 hidrogenio -> 1 barbtonium
+11 hidrogenio -> 1 besiktasium
+17 hidrogenio -> 1 echanius
+5 hidrogenio -> 1 jacktorium
+18 hidrogenio -> 1 huttite
+4 hidrogenio -> 1 radonio
+14 hidrogenio -> 1 atomorphium
+16 hidrogenio -> 1 aluminio
+14 hidrogenio -> 1 astronium
+4 hidrogenio -> 1 buffytonium
+7 hidrogenio -> 1 wompacron
+1 hidrogenio -> 1 heisenbergium
+12 weasleyium 7 arsenalium 12 geonosianon 4 gravitrin 5 manchesterite 5 michonneon 11 verdanium 20 bocajuniun 13 winduon 7 radonio 18 wompacron -> 1 xenomatter
+10 bioquarkium 7 erbio 17 cryotrite 15 berilio 7 biogalvanite 9 atomorphium -> 1 exotrilium
+10 estroncio 18 cloro 18 gamorreanium 9 exotrilium 16 fluor 6 echanium 3 echanius 20 jacktorium 2 huttite 8 astronium 15 buffytonium 15 heisenbergium -> 1 laziopton
+18 aquatronium 15 carbono 3 benficium 11 arsenalium 19 chewbacconium 1 alderaanite 17 cesio 12 berilio 15 biogalvanite 12 blueson 10 barbtonium 4 buffytonium -> 1 chissite
+6 arcanite 19 aurorium 4 holmio 10 ewokium 11 hothium 9 antimonio 13 graviphoton 16 cryotrite 8 barbite 15 daeneryston 9 hamburgerium 14 barcelonium 9 bothanite 11 besiktasium 6 aluminio -> 1 jarjarium
+11 xenomatter 9 laziopton 10 chissite 15 jarjarium -> 1 ouro

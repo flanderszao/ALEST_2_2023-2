@@ -1,0 +1,3 @@
+A quantidade de hidrogenio necessario e: 25081896753915780469765675884279205
+Chamadas de CalculateHidrogenio: 476
+Chamadas de CaculateElemento: 296
